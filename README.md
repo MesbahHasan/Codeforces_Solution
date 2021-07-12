@@ -1,1 +1,1 @@
-Here you will find different codeforces solution with explanation .
+Here you will find different codeforces problems  solution with explanation .
